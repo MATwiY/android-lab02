@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="moj_tekst">Witaj świecie!!</string>
+    <string name="witam">Witam</string>
+    <string name="tutaj">Tutaj</string>
+    <string name="tekst">Tekst</string>
+    <string name="polski">Default</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="tutaj">qui</string>
+    <string name="polski">italiano</string>
+    <string name="tekst">testo</string>
+    <string name="witam">Ciao</string>
+    <string name="moj_tekst">Ciao mondo</string>
+</resources>
